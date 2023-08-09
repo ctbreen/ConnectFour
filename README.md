@@ -1,20 +1,20 @@
-CONNECT FOUR
+#ConnectFour
 
 An implementation of the classic game Connect Four, this game was completed for the open-ended CS3110 Final Project.
 
 Installation Steps
 
 First make sure that your OPAM is up to date. Execute the following commands in your terminal:
-$ opam update
-$ opam upgrade
+`opam update`
+`opam upgrade`
 
 Once you are done with that execute the following command:
-$ opam install ANSITerminal
+`opam install ANSITerminal`
 
 At this point you will have unzipped the zip file containing our connect 4 game.
 Open up your terminal and open to the directory that the unzipped file created.
 Run the following command:
-$ make play
+`make play`
 
 You will now at this point be prompted enter a desired length and width of your board.
 We suggest doing 7, as that size typically fits in the terminal window.
