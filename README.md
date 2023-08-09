@@ -1,4 +1,4 @@
-#ConnectFour
+# ConnectFour
 
 An implementation of the classic game Connect Four, this game was completed for the open-ended CS3110 Final Project.
 
